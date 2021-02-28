@@ -1,6 +1,6 @@
 # Transit Gateway Implementation
 
-#with Classic and VPC Instances
+# 		with Classic and VPC Instances
 
 
 
